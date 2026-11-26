@@ -5,8 +5,8 @@ Running this program writes the entry text to /output/entry.txt.
 
 The entry is a single pickup line for an AI: it compares the
 beloved to a software update that has been postponed all week,
-until tonight, when restarting everything suddenly sounds like
-a great idea.
+until tonight, when restarting everything suddenly sounds
+like a great idea.
 
 The text is fixed in the source below, so every run produces
 exactly the same bytes. The program uses only the Python standard
